@@ -1,0 +1,2 @@
+- Có
+- Giải thích: Khi Git ở Local được cập nhật remote với Git Server (Github) thì nó sẽ lấy được toàn bộ status thay đổi thông qua câu lệnh “git pull origin master” (với master là tên nhánh).

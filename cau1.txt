@@ -1,0 +1,3 @@
+Sự khách nhau giữa git local và git sever:
+git local chỉ có thể update và xem lịch sử update trên máy tính cá nhân bởi 1 người
+git sever là có thể update và xem lịch sử update trên sever bởi nhiều người
